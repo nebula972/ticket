@@ -1,0 +1,19 @@
+
+tr{
+    border-bottom: 1px solid #C57B57;
+    height: 26px;
+    background-color: #1E2D2F;
+}
+
+table{
+    width: 80%;
+    height: 150px;
+    text-align: justify;
+    border-collapse: collapse;
+    border-spacing: 10px 10px;
+}
+
+body{
+    background-color: #1E2D2F;
+    color: #F1AB86;
+}
